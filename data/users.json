@@ -1,0 +1,27 @@
+[
+    { 
+        "firstName": "Jesse",
+        "lastName:": "Okeya",
+        "city": "Ottawa"
+    },
+    { 
+        "firstName": "Jenny",
+        "lastName:": "Oke",
+        "city": "Ottawa"
+    },
+    { 
+        "firstName": "James",
+        "lastName:": "Thiago",
+        "city": "Toronto"
+    },
+    { 
+        "firstName": "Jess",
+        "lastName:": "Phil",
+        "city": "Montreal"
+    },
+    { 
+        "firstName": "John",
+        "lastName:": "Wick",
+        "city": "Gatineau"
+    }
+]
